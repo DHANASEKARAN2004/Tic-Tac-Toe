@@ -38,7 +38,7 @@ This is a simple web application that allows users to play the classic game of T
 
 
 ## Live Link
-[click Here](https://dhanasekaran2004.github.io/Tic-Tac-Toe/)
+[click Here][(https://dhanasekaran2004.github.io/Tic-Tac-Toe/)](https://dhanasekaran2004.github.io/Tic-Tac-Toe/)
 
 ## Contributing
 
