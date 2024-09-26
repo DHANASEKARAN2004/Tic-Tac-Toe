@@ -33,7 +33,8 @@ This is a simple web application that allows users to play the classic game of T
 
 ## Screenshots
 
-![Screenshot]![Screenshot 2024-09-26 135906](https://github.com/user-attachments/assets/fc687edc-d45c-412e-8d4e-72190284fe37)
+![Screenshot 2024-09-26 135906](https://github.com/user-attachments/assets/e4817f54-9a87-4a1f-9b0e-7a9bfddaf9f0)
+
 
 
 ## Live Link
