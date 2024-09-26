@@ -33,7 +33,8 @@ This is a simple web application that allows users to play the classic game of T
 
 ## Screenshots
 
-![Screenshot](age-calculator-app-main/design/active-states.jpg)
+![Screenshot]![Screenshot 2024-09-26 135906](https://github.com/user-attachments/assets/fc687edc-d45c-412e-8d4e-72190284fe37)
+
 
 ## Live Link
 [click Here].(https://dhanasekaran.github.io/Age_calculator/age-calculator-app-main/)
