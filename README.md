@@ -22,7 +22,7 @@ This is a simple web application that allows users to play the classic game of T
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/dhanasekaran/Age_calculator.git
+(https://github.com/DHANASEKARAN2004/Tic-Tac-Toe)
    ```
 
 2. Open `index.html` in your web browser.
