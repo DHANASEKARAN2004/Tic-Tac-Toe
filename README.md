@@ -20,10 +20,11 @@ This is a simple web application that allows users to play the classic game of T
 
 ## Usage
 
-1. Clone the repository to your local machine.
+1.Clone the repository to your local machine.
    ```bash
-(https://github.com/DHANASEKARAN2004/Tic-Tac-Toe)
+(https://github.com/DHANASEKARAN2004/Tic-Tac-Toe/edit/main/README.md)
    ```
+
 
 2. Open `index.html` in your web browser.
 
